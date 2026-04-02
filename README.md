@@ -15,6 +15,7 @@ ________________________________________
 🗂️ Dataset Description
 
 The project uses relational data organized into the following tables:
+
 •	Customer – Customer details (ID, name, segment, etc.)
 
 
