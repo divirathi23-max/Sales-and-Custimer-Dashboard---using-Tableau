@@ -13,7 +13,9 @@ The dashboard provides insights into sales performance, customer behavior, and p
 ________________________________________
 
 🗂️ Dataset Description
+
 The project uses relational data organized into the following tables:
+
 •	Customer – Customer details (ID, name, segment, etc.)
 
 
@@ -26,7 +28,9 @@ The project uses relational data organized into the following tables:
 •	Location – Geographic data (city, state, region)
 ________________________________________
 📈 Dashboard Features
+
 🔹 Sales Dashboard
+
 •	Total Sales, Profit, and Quantity
 
 •	Monthly and Yearly Sales Trends
@@ -36,6 +40,7 @@ ________________________________________
 •	Regional sales distribution
 
 🔹 Customer Dashboard
+
 •	Customer segmentation analysis
 
 •	Purchase behavior insights
@@ -45,6 +50,7 @@ ________________________________________
 •	Order frequency and trends
 ________________________________________
 📅 Time-Based Analysis
+
 •	Monthly trends to track short-term performance
 
 •	Yearly trends for long-term growth analysis
@@ -52,6 +58,7 @@ ________________________________________
 •	Seasonal sales patterns
 ________________________________________
 🛠️ Tools & Technologies
+
 •	📊 Tableau – Dashboard creation and visualization
 
 •	🗄️ SQL / Excel – Data preparation and structuring
@@ -59,6 +66,7 @@ ________________________________________
 •	🧮 Data Modeling – Table relationships and joins
 ________________________________________
 🎯 Key Insights
+
 •	Identifies top-performing products and regions
 
 •	Tracks profit margins across categories
